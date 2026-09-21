@@ -1,0 +1,6 @@
+{
+  "name": "Brazil Market Tracker",
+  "description": "Comprehensive Brazilian stock market tracking app featuring real-time TradingView charts, B3 heatmaps, stock screener, economic calendar, market map, and company technicals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

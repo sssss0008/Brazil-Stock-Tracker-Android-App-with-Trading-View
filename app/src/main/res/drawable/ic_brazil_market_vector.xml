@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Outer Brazilian Losango / Diamond -->
+    <path
+        android:pathData="M24,4 L43,24 L24,44 L5,24 Z"
+        android:fillColor="#1A00E676"
+        android:strokeColor="#FFDF00"
+        android:strokeWidth="1.8"
+        android:strokeLineJoin="round" />
+
+    <!-- Candle 1 (Green) -->
+    <path
+        android:pathData="M16,19 L16,31"
+        android:strokeColor="#00E676"
+        android:strokeWidth="1.2" />
+    <path
+        android:pathData="M14.5,22 L17.5,22 L17.5,28 L14.5,28 Z"
+        android:fillColor="#00E676" />
+
+    <!-- Candle 2 (Gold) -->
+    <path
+        android:pathData="M22,14 L22,27"
+        android:strokeColor="#FFD700"
+        android:strokeWidth="1.2" />
+    <path
+        android:pathData="M20.5,16.5 L23.5,16.5 L23.5,23.5 L20.5,23.5 Z"
+        android:fillColor="#FFD700" />
+
+    <!-- Candle 3 (Green) -->
+    <path
+        android:pathData="M28,11 L28,24"
+        android:strokeColor="#00E676"
+        android:strokeWidth="1.2" />
+    <path
+        android:pathData="M26.5,13.5 L29.5,13.5 L29.5,20.5 L26.5,20.5 Z"
+        android:fillColor="#00E676" />
+
+    <!-- Sharp Dynamic Surge Line with Arrow -->
+    <path
+        android:pathData="M12,32 L20,23 L26,17.5 L36.5,9"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M31.5,8.8 L36.8,9 L36.2,14.2"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    
+    <!-- Apex Glow Dot -->
+    <path
+        android:pathData="M36.8,9 A1.2,1.2 0 1,1 36.8,8.9 Z"
+        android:fillColor="#FFDF00" />
+</vector>
